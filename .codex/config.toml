@@ -1,0 +1,16 @@
+# Project settings. Credentials remain in .env, never in MCP configuration.
+
+[plugins."hyperframes@motion-design-v2"]
+# Enable after plugin cache installation in a writable local Codex environment.
+enabled = false
+
+# Optional hosted connector. Enable after completing HeyGen authorization.
+[mcp_servers.hyperframes]
+url = "https://mcp.heygen.com/mcp/hyperframes/"
+enabled = false
+
+# Optional desktop connection. Enable only when Codex and Rive Desktop run
+# on the same Mac/Windows machine and Rive is listening on this endpoint.
+[mcp_servers.rive_desktop]
+url = "http://127.0.0.1:9791/mcp"
+enabled = false

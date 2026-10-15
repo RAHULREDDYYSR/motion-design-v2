@@ -1,0 +1,8 @@
+[
+  {"id":"01-hook","title":"Nature has a rhythm","text":"Why do these numbers keep appearing in nature? Meet Fibonacci."},
+  {"id":"02-rule","title":"One simple rule","text":"One, one, two, three, five, eight. Add the last two numbers to get the next."},
+  {"id":"03-seeds","title":"A pattern in plants","text":"In many sunflowers, seed spirals can be counted in neighboring Fibonacci numbers. Pinecones often show similar patterns."},
+  {"id":"04-angle","title":"Room to grow","text":"Many plants place new growth near the golden angle: about one hundred thirty seven point five degrees. This spacing reduces repeated alignment."},
+  {"id":"05-cosmos","title":"A spiral is not proof","text":"But a spiral is not automatically Fibonacci. Shells, storms, and galaxies can form spirals through different growth and physical processes."},
+  {"id":"06-close","title":"Look closer","text":"Fibonacci is a remarkable pattern in some living systems. Yet life and the cosmos follow many different rules. Look closely. Count. Then ask why."}
+]
