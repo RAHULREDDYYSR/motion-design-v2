@@ -1,0 +1,1114 @@
+{
+  "total_duration_s": 46.883,
+  "width": 1080,
+  "height": 1920,
+  "groups": [
+    {
+      "id": "caption-group-0",
+      "frame": 1,
+      "start": 0.274,
+      "end": 0.599,
+      "text": "Why do",
+      "words": [
+        {
+          "id": "caption-word-0-0",
+          "text": "Why",
+          "start": 0.274,
+          "end": 0.449
+        },
+        {
+          "id": "caption-word-0-1",
+          "text": "do",
+          "start": 0.474,
+          "end": 0.574
+        }
+      ]
+    },
+    {
+      "id": "caption-group-1",
+      "frame": 1,
+      "start": 0.599,
+      "end": 1.224,
+      "text": "these numbers",
+      "words": [
+        {
+          "id": "caption-word-1-0",
+          "text": "these",
+          "start": 0.599,
+          "end": 0.799
+        },
+        {
+          "id": "caption-word-1-1",
+          "text": "numbers",
+          "start": 0.849,
+          "end": 1.174
+        }
+      ]
+    },
+    {
+      "id": "caption-group-2",
+      "frame": 1,
+      "start": 1.224,
+      "end": 1.774,
+      "text": "keep appearing",
+      "words": [
+        {
+          "id": "caption-word-2-0",
+          "text": "keep",
+          "start": 1.224,
+          "end": 1.374
+        },
+        {
+          "id": "caption-word-2-1",
+          "text": "appearing",
+          "start": 1.399,
+          "end": 1.749
+        }
+      ]
+    },
+    {
+      "id": "caption-group-3",
+      "frame": 1,
+      "start": 1.774,
+      "end": 2.619,
+      "text": "in nature?",
+      "words": [
+        {
+          "id": "caption-word-3-0",
+          "text": "in",
+          "start": 1.774,
+          "end": 1.824
+        },
+        {
+          "id": "caption-word-3-1",
+          "text": "nature?",
+          "start": 1.849,
+          "end": 2.499
+        }
+      ]
+    },
+    {
+      "id": "caption-group-4",
+      "frame": 1,
+      "start": 2.699,
+      "end": 3.82,
+      "text": "Meet Fibonacci.",
+      "words": [
+        {
+          "id": "caption-word-4-0",
+          "text": "Meet",
+          "start": 2.699,
+          "end": 2.899
+        },
+        {
+          "id": "caption-word-4-1",
+          "text": "Fibonacci.",
+          "start": 2.949,
+          "end": 3.7
+        }
+      ]
+    },
+    {
+      "id": "caption-group-5",
+      "frame": 2,
+      "start": 4.366,
+      "end": 4.716,
+      "text": "One,",
+      "words": [
+        {
+          "id": "caption-word-5-0",
+          "text": "One,",
+          "start": 4.366,
+          "end": 4.641
+        }
+      ]
+    },
+    {
+      "id": "caption-group-6",
+      "frame": 2,
+      "start": 4.716,
+      "end": 4.991,
+      "text": "one,",
+      "words": [
+        {
+          "id": "caption-word-6-0",
+          "text": "one,",
+          "start": 4.716,
+          "end": 4.891
+        }
+      ]
+    },
+    {
+      "id": "caption-group-7",
+      "frame": 2,
+      "start": 4.991,
+      "end": 5.341,
+      "text": "two,",
+      "words": [
+        {
+          "id": "caption-word-7-0",
+          "text": "two,",
+          "start": 4.991,
+          "end": 5.241
+        }
+      ]
+    },
+    {
+      "id": "caption-group-8",
+      "frame": 2,
+      "start": 5.341,
+      "end": 5.641,
+      "text": "three,",
+      "words": [
+        {
+          "id": "caption-word-8-0",
+          "text": "three,",
+          "start": 5.341,
+          "end": 5.566
+        }
+      ]
+    },
+    {
+      "id": "caption-group-9",
+      "frame": 2,
+      "start": 5.641,
+      "end": 6.016,
+      "text": "five,",
+      "words": [
+        {
+          "id": "caption-word-9-0",
+          "text": "five,",
+          "start": 5.641,
+          "end": 5.941
+        }
+      ]
+    },
+    {
+      "id": "caption-group-10",
+      "frame": 2,
+      "start": 6.016,
+      "end": 6.711,
+      "text": "eight.",
+      "words": [
+        {
+          "id": "caption-word-10-0",
+          "text": "eight.",
+          "start": 6.016,
+          "end": 6.591
+        }
+      ]
+    },
+    {
+      "id": "caption-group-11",
+      "frame": 2,
+      "start": 6.791,
+      "end": 7.066,
+      "text": "Add the",
+      "words": [
+        {
+          "id": "caption-word-11-0",
+          "text": "Add",
+          "start": 6.791,
+          "end": 6.941
+        },
+        {
+          "id": "caption-word-11-1",
+          "text": "the",
+          "start": 6.966,
+          "end": 7.016
+        }
+      ]
+    },
+    {
+      "id": "caption-group-12",
+      "frame": 2,
+      "start": 7.066,
+      "end": 7.516,
+      "text": "last two",
+      "words": [
+        {
+          "id": "caption-word-12-0",
+          "text": "last",
+          "start": 7.066,
+          "end": 7.341
+        },
+        {
+          "id": "caption-word-12-1",
+          "text": "two",
+          "start": 7.391,
+          "end": 7.491
+        }
+      ]
+    },
+    {
+      "id": "caption-group-13",
+      "frame": 2,
+      "start": 7.516,
+      "end": 7.941,
+      "text": "numbers to",
+      "words": [
+        {
+          "id": "caption-word-13-0",
+          "text": "numbers",
+          "start": 7.516,
+          "end": 7.816
+        },
+        {
+          "id": "caption-word-13-1",
+          "text": "to",
+          "start": 7.866,
+          "end": 7.916
+        }
+      ]
+    },
+    {
+      "id": "caption-group-14",
+      "frame": 2,
+      "start": 7.941,
+      "end": 8.74,
+      "text": "get the next.",
+      "words": [
+        {
+          "id": "caption-word-14-0",
+          "text": "get",
+          "start": 7.941,
+          "end": 8.066
+        },
+        {
+          "id": "caption-word-14-1",
+          "text": "the",
+          "start": 8.091,
+          "end": 8.141
+        },
+        {
+          "id": "caption-word-14-2",
+          "text": "next.",
+          "start": 8.191,
+          "end": 8.62
+        }
+      ]
+    },
+    {
+      "id": "caption-group-15",
+      "frame": 3,
+      "start": 9.253,
+      "end": 10.548,
+      "text": "In many sunflowers,",
+      "words": [
+        {
+          "id": "caption-word-15-0",
+          "text": "In",
+          "start": 9.253,
+          "end": 9.328
+        },
+        {
+          "id": "caption-word-15-1",
+          "text": "many",
+          "start": 9.378,
+          "end": 9.553
+        },
+        {
+          "id": "caption-word-15-2",
+          "text": "sunflowers,",
+          "start": 9.603,
+          "end": 10.428
+        }
+      ]
+    },
+    {
+      "id": "caption-group-16",
+      "frame": 3,
+      "start": 10.603,
+      "end": 11.478,
+      "text": "seed spirals",
+      "words": [
+        {
+          "id": "caption-word-16-0",
+          "text": "seed",
+          "start": 10.603,
+          "end": 10.853
+        },
+        {
+          "id": "caption-word-16-1",
+          "text": "spirals",
+          "start": 10.903,
+          "end": 11.428
+        }
+      ]
+    },
+    {
+      "id": "caption-group-17",
+      "frame": 3,
+      "start": 11.478,
+      "end": 11.703,
+      "text": "can be",
+      "words": [
+        {
+          "id": "caption-word-17-0",
+          "text": "can",
+          "start": 11.478,
+          "end": 11.553
+        },
+        {
+          "id": "caption-word-17-1",
+          "text": "be",
+          "start": 11.578,
+          "end": 11.653
+        }
+      ]
+    },
+    {
+      "id": "caption-group-18",
+      "frame": 3,
+      "start": 11.703,
+      "end": 12.778,
+      "text": "counted in neighboring",
+      "words": [
+        {
+          "id": "caption-word-18-0",
+          "text": "counted",
+          "start": 11.703,
+          "end": 12.078
+        },
+        {
+          "id": "caption-word-18-1",
+          "text": "in",
+          "start": 12.128,
+          "end": 12.228
+        },
+        {
+          "id": "caption-word-18-2",
+          "text": "neighboring",
+          "start": 12.278,
+          "end": 12.703
+        }
+      ]
+    },
+    {
+      "id": "caption-group-19",
+      "frame": 3,
+      "start": 12.778,
+      "end": 14.248,
+      "text": "Fibonacci numbers.",
+      "words": [
+        {
+          "id": "caption-word-19-0",
+          "text": "Fibonacci",
+          "start": 12.778,
+          "end": 13.303
+        },
+        {
+          "id": "caption-word-19-1",
+          "text": "numbers.",
+          "start": 13.353,
+          "end": 14.128
+        }
+      ]
+    },
+    {
+      "id": "caption-group-20",
+      "frame": 3,
+      "start": 14.303,
+      "end": 16.103,
+      "text": "Pinecones often show similar",
+      "words": [
+        {
+          "id": "caption-word-20-0",
+          "text": "Pinecones",
+          "start": 14.303,
+          "end": 14.928
+        },
+        {
+          "id": "caption-word-20-1",
+          "text": "often",
+          "start": 15.028,
+          "end": 15.353
+        },
+        {
+          "id": "caption-word-20-2",
+          "text": "show",
+          "start": 15.428,
+          "end": 15.603
+        },
+        {
+          "id": "caption-word-20-3",
+          "text": "similar",
+          "start": 15.703,
+          "end": 16.053
+        }
+      ]
+    },
+    {
+      "id": "caption-group-21",
+      "frame": 3,
+      "start": 16.103,
+      "end": 16.831,
+      "text": "patterns.",
+      "words": [
+        {
+          "id": "caption-word-21-0",
+          "text": "patterns.",
+          "start": 16.103,
+          "end": 16.711
+        }
+      ]
+    },
+    {
+      "id": "caption-group-22",
+      "frame": 4,
+      "start": 17.366,
+      "end": 18.391,
+      "text": "Many plants place",
+      "words": [
+        {
+          "id": "caption-word-22-0",
+          "text": "Many",
+          "start": 17.366,
+          "end": 17.566
+        },
+        {
+          "id": "caption-word-22-1",
+          "text": "plants",
+          "start": 17.616,
+          "end": 17.991
+        },
+        {
+          "id": "caption-word-22-2",
+          "text": "place",
+          "start": 18.041,
+          "end": 18.316
+        }
+      ]
+    },
+    {
+      "id": "caption-group-23",
+      "frame": 4,
+      "start": 18.391,
+      "end": 18.991,
+      "text": "new growth",
+      "words": [
+        {
+          "id": "caption-word-23-0",
+          "text": "new",
+          "start": 18.391,
+          "end": 18.541
+        },
+        {
+          "id": "caption-word-23-1",
+          "text": "growth",
+          "start": 18.591,
+          "end": 18.941
+        }
+      ]
+    },
+    {
+      "id": "caption-group-24",
+      "frame": 4,
+      "start": 18.991,
+      "end": 19.241,
+      "text": "near the",
+      "words": [
+        {
+          "id": "caption-word-24-0",
+          "text": "near",
+          "start": 18.991,
+          "end": 19.116
+        },
+        {
+          "id": "caption-word-24-1",
+          "text": "the",
+          "start": 19.141,
+          "end": 19.191
+        }
+      ]
+    },
+    {
+      "id": "caption-group-25",
+      "frame": 4,
+      "start": 19.241,
+      "end": 20.386,
+      "text": "golden angle:",
+      "words": [
+        {
+          "id": "caption-word-25-0",
+          "text": "golden",
+          "start": 19.241,
+          "end": 19.566
+        },
+        {
+          "id": "caption-word-25-1",
+          "text": "angle:",
+          "start": 19.616,
+          "end": 20.266
+        }
+      ]
+    },
+    {
+      "id": "caption-group-26",
+      "frame": 4,
+      "start": 20.416,
+      "end": 20.816,
+      "text": "about one",
+      "words": [
+        {
+          "id": "caption-word-26-0",
+          "text": "about",
+          "start": 20.416,
+          "end": 20.616
+        },
+        {
+          "id": "caption-word-26-1",
+          "text": "one",
+          "start": 20.666,
+          "end": 20.766
+        }
+      ]
+    },
+    {
+      "id": "caption-group-27",
+      "frame": 4,
+      "start": 20.816,
+      "end": 21.891,
+      "text": "hundred thirty seven",
+      "words": [
+        {
+          "id": "caption-word-27-0",
+          "text": "hundred",
+          "start": 20.816,
+          "end": 21.141
+        },
+        {
+          "id": "caption-word-27-1",
+          "text": "thirty",
+          "start": 21.216,
+          "end": 21.441
+        },
+        {
+          "id": "caption-word-27-2",
+          "text": "seven",
+          "start": 21.516,
+          "end": 21.816
+        }
+      ]
+    },
+    {
+      "id": "caption-group-28",
+      "frame": 4,
+      "start": 21.891,
+      "end": 23.586,
+      "text": "point five degrees.",
+      "words": [
+        {
+          "id": "caption-word-28-0",
+          "text": "point",
+          "start": 21.891,
+          "end": 22.216
+        },
+        {
+          "id": "caption-word-28-1",
+          "text": "five",
+          "start": 22.291,
+          "end": 22.566
+        },
+        {
+          "id": "caption-word-28-2",
+          "text": "degrees.",
+          "start": 22.616,
+          "end": 23.466
+        }
+      ]
+    },
+    {
+      "id": "caption-group-29",
+      "frame": 4,
+      "start": 23.641,
+      "end": 25.041,
+      "text": "This spacing reduces",
+      "words": [
+        {
+          "id": "caption-word-29-0",
+          "text": "This",
+          "start": 23.641,
+          "end": 23.766
+        },
+        {
+          "id": "caption-word-29-1",
+          "text": "spacing",
+          "start": 23.841,
+          "end": 24.416
+        },
+        {
+          "id": "caption-word-29-2",
+          "text": "reduces",
+          "start": 24.491,
+          "end": 24.991
+        }
+      ]
+    },
+    {
+      "id": "caption-group-30",
+      "frame": 4,
+      "start": 25.041,
+      "end": 26.241,
+      "text": "repeated alignment.",
+      "words": [
+        {
+          "id": "caption-word-30-0",
+          "text": "repeated",
+          "start": 25.041,
+          "end": 25.491
+        },
+        {
+          "id": "caption-word-30-1",
+          "text": "alignment.",
+          "start": 25.541,
+          "end": 26.121
+        }
+      ]
+    },
+    {
+      "id": "caption-group-31",
+      "frame": 5,
+      "start": 26.745,
+      "end": 26.97,
+      "text": "But a",
+      "words": [
+        {
+          "id": "caption-word-31-0",
+          "text": "But",
+          "start": 26.745,
+          "end": 26.845
+        },
+        {
+          "id": "caption-word-31-1",
+          "text": "a",
+          "start": 26.87,
+          "end": 26.895
+        }
+      ]
+    },
+    {
+      "id": "caption-group-32",
+      "frame": 5,
+      "start": 26.97,
+      "end": 27.97,
+      "text": "spiral is not",
+      "words": [
+        {
+          "id": "caption-word-32-0",
+          "text": "spiral",
+          "start": 26.97,
+          "end": 27.47
+        },
+        {
+          "id": "caption-word-32-1",
+          "text": "is",
+          "start": 27.52,
+          "end": 27.62
+        },
+        {
+          "id": "caption-word-32-2",
+          "text": "not",
+          "start": 27.67,
+          "end": 27.895
+        }
+      ]
+    },
+    {
+      "id": "caption-group-33",
+      "frame": 5,
+      "start": 27.97,
+      "end": 29.915,
+      "text": "automatically Fibonacci.",
+      "words": [
+        {
+          "id": "caption-word-33-0",
+          "text": "automatically",
+          "start": 27.97,
+          "end": 28.62
+        },
+        {
+          "id": "caption-word-33-1",
+          "text": "Fibonacci.",
+          "start": 28.67,
+          "end": 29.795
+        }
+      ]
+    },
+    {
+      "id": "caption-group-34",
+      "frame": 5,
+      "start": 30.07,
+      "end": 30.715,
+      "text": "Shells,",
+      "words": [
+        {
+          "id": "caption-word-34-0",
+          "text": "Shells,",
+          "start": 30.07,
+          "end": 30.595
+        }
+      ]
+    },
+    {
+      "id": "caption-group-35",
+      "frame": 5,
+      "start": 30.745,
+      "end": 31.295,
+      "text": "storms,",
+      "words": [
+        {
+          "id": "caption-word-35-0",
+          "text": "storms,",
+          "start": 30.745,
+          "end": 31.245
+        }
+      ]
+    },
+    {
+      "id": "caption-group-36",
+      "frame": 5,
+      "start": 31.295,
+      "end": 32.895,
+      "text": "and galaxies can form",
+      "words": [
+        {
+          "id": "caption-word-36-0",
+          "text": "and",
+          "start": 31.295,
+          "end": 31.37
+        },
+        {
+          "id": "caption-word-36-1",
+          "text": "galaxies",
+          "start": 31.42,
+          "end": 32.27
+        },
+        {
+          "id": "caption-word-36-2",
+          "text": "can",
+          "start": 32.345,
+          "end": 32.495
+        },
+        {
+          "id": "caption-word-36-3",
+          "text": "form",
+          "start": 32.57,
+          "end": 32.82
+        }
+      ]
+    },
+    {
+      "id": "caption-group-37",
+      "frame": 5,
+      "start": 32.895,
+      "end": 34.095,
+      "text": "spirals through different",
+      "words": [
+        {
+          "id": "caption-word-37-0",
+          "text": "spirals",
+          "start": 32.895,
+          "end": 33.47
+        },
+        {
+          "id": "caption-word-37-1",
+          "text": "through",
+          "start": 33.52,
+          "end": 33.695
+        },
+        {
+          "id": "caption-word-37-2",
+          "text": "different",
+          "start": 33.77,
+          "end": 34.02
+        }
+      ]
+    },
+    {
+      "id": "caption-group-38",
+      "frame": 5,
+      "start": 34.095,
+      "end": 34.67,
+      "text": "growth and",
+      "words": [
+        {
+          "id": "caption-word-38-0",
+          "text": "growth",
+          "start": 34.095,
+          "end": 34.47
+        },
+        {
+          "id": "caption-word-38-1",
+          "text": "and",
+          "start": 34.52,
+          "end": 34.595
+        }
+      ]
+    },
+    {
+      "id": "caption-group-39",
+      "frame": 5,
+      "start": 34.67,
+      "end": 35.888,
+      "text": "physical processes.",
+      "words": [
+        {
+          "id": "caption-word-39-0",
+          "text": "physical",
+          "start": 34.67,
+          "end": 34.995
+        },
+        {
+          "id": "caption-word-39-1",
+          "text": "processes.",
+          "start": 35.045,
+          "end": 35.768
+        }
+      ]
+    },
+    {
+      "id": "caption-group-40",
+      "frame": 6,
+      "start": 36.429,
+      "end": 37.254,
+      "text": "Fibonacci is",
+      "words": [
+        {
+          "id": "caption-word-40-0",
+          "text": "Fibonacci",
+          "start": 36.429,
+          "end": 37.079
+        },
+        {
+          "id": "caption-word-40-1",
+          "text": "is",
+          "start": 37.154,
+          "end": 37.229
+        }
+      ]
+    },
+    {
+      "id": "caption-group-41",
+      "frame": 6,
+      "start": 37.254,
+      "end": 38.404,
+      "text": "a remarkable pattern",
+      "words": [
+        {
+          "id": "caption-word-41-0",
+          "text": "a",
+          "start": 37.254,
+          "end": 37.279
+        },
+        {
+          "id": "caption-word-41-1",
+          "text": "remarkable",
+          "start": 37.329,
+          "end": 37.904
+        },
+        {
+          "id": "caption-word-41-2",
+          "text": "pattern",
+          "start": 37.954,
+          "end": 38.354
+        }
+      ]
+    },
+    {
+      "id": "caption-group-42",
+      "frame": 6,
+      "start": 38.404,
+      "end": 38.754,
+      "text": "in some",
+      "words": [
+        {
+          "id": "caption-word-42-0",
+          "text": "in",
+          "start": 38.404,
+          "end": 38.504
+        },
+        {
+          "id": "caption-word-42-1",
+          "text": "some",
+          "start": 38.554,
+          "end": 38.704
+        }
+      ]
+    },
+    {
+      "id": "caption-group-43",
+      "frame": 6,
+      "start": 38.754,
+      "end": 39.949,
+      "text": "living systems.",
+      "words": [
+        {
+          "id": "caption-word-43-0",
+          "text": "living",
+          "start": 38.754,
+          "end": 39.004
+        },
+        {
+          "id": "caption-word-43-1",
+          "text": "systems.",
+          "start": 39.054,
+          "end": 39.829
+        }
+      ]
+    },
+    {
+      "id": "caption-group-44",
+      "frame": 6,
+      "start": 39.954,
+      "end": 40.504,
+      "text": "Yet life",
+      "words": [
+        {
+          "id": "caption-word-44-0",
+          "text": "Yet",
+          "start": 39.954,
+          "end": 40.129
+        },
+        {
+          "id": "caption-word-44-1",
+          "text": "life",
+          "start": 40.204,
+          "end": 40.454
+        }
+      ]
+    },
+    {
+      "id": "caption-group-45",
+      "frame": 6,
+      "start": 40.504,
+      "end": 40.704,
+      "text": "and the",
+      "words": [
+        {
+          "id": "caption-word-45-0",
+          "text": "and",
+          "start": 40.504,
+          "end": 40.579
+        },
+        {
+          "id": "caption-word-45-1",
+          "text": "the",
+          "start": 40.604,
+          "end": 40.654
+        }
+      ]
+    },
+    {
+      "id": "caption-group-46",
+      "frame": 6,
+      "start": 40.704,
+      "end": 42.229,
+      "text": "cosmos follow many different",
+      "words": [
+        {
+          "id": "caption-word-46-0",
+          "text": "cosmos",
+          "start": 40.704,
+          "end": 41.279
+        },
+        {
+          "id": "caption-word-46-1",
+          "text": "follow",
+          "start": 41.354,
+          "end": 41.654
+        },
+        {
+          "id": "caption-word-46-2",
+          "text": "many",
+          "start": 41.704,
+          "end": 41.879
+        },
+        {
+          "id": "caption-word-46-3",
+          "text": "different",
+          "start": 41.929,
+          "end": 42.179
+        }
+      ]
+    },
+    {
+      "id": "caption-group-47",
+      "frame": 6,
+      "start": 42.229,
+      "end": 43.024,
+      "text": "rules.",
+      "words": [
+        {
+          "id": "caption-word-47-0",
+          "text": "rules.",
+          "start": 42.229,
+          "end": 42.904
+        }
+      ]
+    },
+    {
+      "id": "caption-group-48",
+      "frame": 6,
+      "start": 43.054,
+      "end": 44.149,
+      "text": "Look closely.",
+      "words": [
+        {
+          "id": "caption-word-48-0",
+          "text": "Look",
+          "start": 43.054,
+          "end": 43.204
+        },
+        {
+          "id": "caption-word-48-1",
+          "text": "closely.",
+          "start": 43.254,
+          "end": 44.029
+        }
+      ]
+    },
+    {
+      "id": "caption-group-49",
+      "frame": 6,
+      "start": 44.229,
+      "end": 44.899,
+      "text": "Count.",
+      "words": [
+        {
+          "id": "caption-word-49-0",
+          "text": "Count.",
+          "start": 44.229,
+          "end": 44.779
+        }
+      ]
+    },
+    {
+      "id": "caption-group-50",
+      "frame": 6,
+      "start": 44.929,
+      "end": 45.991,
+      "text": "Then ask why.",
+      "words": [
+        {
+          "id": "caption-word-50-0",
+          "text": "Then",
+          "start": 44.929,
+          "end": 45.104
+        },
+        {
+          "id": "caption-word-50-1",
+          "text": "ask",
+          "start": 45.179,
+          "end": 45.404
+        },
+        {
+          "id": "caption-word-50-2",
+          "text": "why.",
+          "start": 45.454,
+          "end": 45.871
+        }
+      ]
+    }
+  ]
+}

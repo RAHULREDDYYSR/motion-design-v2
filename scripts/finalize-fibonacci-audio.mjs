@@ -1,0 +1,24 @@
+// Two-pass narration loudness normalization; preserve the rendered video stream.
+import {spawnSync} from 'node:child_process';
+import {writeFileSync,renameSync,mkdirSync} from 'node:fs';
+import {fileURLToPath} from 'node:url';
+import path from 'node:path';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const target=path.join(root,'output/fibonacci-reel.mp4');
+const temp=path.join(root,'work/fibonacci-loudness.mp4');
+const probe=spawnSync('ffprobe',['-v','error','-select_streams','v:0','-show_entries','stream=duration','-of','csv=p=0',target],{encoding:'utf8'});
+const duration=Number(probe.stdout.trim());
+if(probe.status!==0||!Number.isFinite(duration)||duration<=0)throw new Error('Cannot determine rendered video duration');
+const run=args=>{const p=spawnSync('ffmpeg',['-hide_banner',...args],{encoding:'utf8',maxBuffer:8*1024*1024});if(p.status!==0)throw new Error(p.stderr||p.error?.message||'FFmpeg failed');return p.stderr};
+const log=run(['-i',target,'-vn','-af','loudnorm=I=-16:TP=-1.5:LRA=11:print_format=json','-f','null','-']);
+const match=log.match(/\{\s*"input_i"[\s\S]*?\}/);
+if(!match)throw new Error('Missing loudness measurement');
+const m=JSON.parse(match[0]);
+for(const k of ['input_i','input_tp','input_lra','input_thresh','target_offset'])if(!Number.isFinite(+m[k]))throw new Error(`Invalid audio measurement: ${k}`);
+const filter=`loudnorm=I=-16:TP=-1.5:LRA=11:measured_I=${m.input_i}:measured_TP=${m.input_tp}:measured_LRA=${m.input_lra}:measured_thresh=${m.input_thresh}:offset=${m.target_offset}:linear=true:print_format=json`;
+const final=run(['-y','-i',target,'-map','0:v:0','-map','0:a:0','-c:v','copy','-af',filter,'-c:a','aac','-b:a','192k','-ar','48000','-t',String(duration),'-movflags','+faststart',temp]);
+const result=final.match(/\{\s*"input_i"[\s\S]*?\}/);
+mkdirSync(path.join(root,'work'),{recursive:true});
+writeFileSync(path.join(root,'work/fibonacci-loudness.json'),JSON.stringify({target:{integrated_lufs:-16,true_peak_dbtp:-1.5},measured:result?JSON.parse(result[0]):m},null,2));
+renameSync(temp,target);
+console.log('Normalized reel audio to -16 LUFS target, -1.5 dBTP ceiling; preserved H.264 stream.');

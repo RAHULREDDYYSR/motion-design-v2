@@ -1,0 +1,10 @@
+{
+  "name": "video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node ../scripts/hyperframes.mjs preview video",
+    "check": "node ../scripts/hyperframes.mjs check video",
+    "render": "node ../scripts/hyperframes.mjs render video --output output/reel.mp4"
+  }
+}

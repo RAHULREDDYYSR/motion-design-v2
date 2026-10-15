@@ -1,0 +1,45 @@
+{
+  "name": "motion-design-v2",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Rive and HyperFrames motion graphics with Gemini audio tooling",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "doctor": "node --env-file-if-exists=.env scripts/doctor.mjs",
+    "preview": "node scripts/hyperframes.mjs preview video",
+    "lint": "node scripts/hyperframes.mjs lint video",
+    "check": "node scripts/hyperframes.mjs check video",
+    "render": "node scripts/hyperframes.mjs render video --output output/reel.mp4",
+    "skills:list": "node scripts/list-skills.mjs",
+    "rive": "bash scripts/rive.sh",
+    "hf": "node scripts/hyperframes.mjs",
+    "narrate": "node --use-env-proxy --env-file-if-exists=.env scripts/narrate.mjs",
+    "gemini:check": "node --use-env-proxy --env-file-if-exists=.env scripts/gemini-check.mjs",
+    "transcribe": "node scripts/hyperframes.mjs transcribe --dir video",
+    "assets:sync": "node scripts/sync-assets.mjs",
+    "postinstall": "node scripts/sync-assets.mjs",
+    "setup": "node scripts/bootstrap.mjs",
+    "codex": "bash scripts/codex.sh",
+    "codex:plugins": "bash scripts/codex.sh plugin list --json",
+    "setup:rive:download": "bash scripts/download-rive-installer.sh",
+    "transcribe:gemini": "node --use-env-proxy --env-file-if-exists=.env scripts/transcribe-gemini.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "fibonacci:build": "node scripts/build-fibonacci.mjs && node plugins/hyperframes/skills/faceless-explainer/scripts/captions.mjs build --hyperframes videos/fibonacci-nature --skin videos/fibonacci-nature/caption-skin.html && node plugins/hyperframes/skills/faceless-explainer/scripts/assemble-index.mjs --hyperframes videos/fibonacci-nature && node scripts/finalize-fibonacci.mjs",
+    "fibonacci:check": "node scripts/hyperframes.mjs check videos/fibonacci-nature",
+    "fibonacci:preview": "node scripts/hyperframes.mjs preview videos/fibonacci-nature --background",
+    "fibonacci:render": "node scripts/hyperframes.mjs render videos/fibonacci-nature --quality delivery --workers 1 --output output/fibonacci-reel.mp4 && node scripts/finalize-fibonacci-audio.mjs"
+  },
+  "devDependencies": {
+    "gsap": "3.15.0",
+    "hyperframes": "0.8.161",
+    "skills": "1.7.2"
+  },
+  "dependencies": {
+    "@fontsource-variable/jetbrains-mono": "5.3.0",
+    "@fontsource-variable/source-serif-4": "5.3.1",
+    "@google/genai": "2.30.0"
+  }
+}
